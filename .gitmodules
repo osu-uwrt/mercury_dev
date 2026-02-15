@@ -1,0 +1,27 @@
+[submodule "src/mercury_autonomy"]
+	path = src/mercury_autonomy
+	url = git@github.com:osu-uwrt/mercury_autonomy.git
+[submodule "src/mercury_common"]
+	path = src/mercury_common
+	url = git@github.com:osu-uwrt/mercury_common.git
+[submodule "src/mercury_controller"]
+	path = src/mercury_controller
+	url = git@github.com:osu-uwrt/mercury_controller.git
+[submodule "src/mercury_drivers/mercury_imu"]
+	path = src/mercury_drivers/mercury_imu
+	url = git@github.com:osu-uwrt/mercury_imu.git
+[submodule "src/mercury_drivers/mercury_hardware"]
+	path = src/mercury_drivers/mercury_hardware
+	url = git@github.com:osu-uwrt/mercury_hardware.git
+[submodule "src/mercury_gui"]
+	path = src/mercury_gui
+	url = git@github.com:osu-uwrt/mercury_gui.git
+[submodule "src/mercury_launch"]
+	path = src/mercury_launch
+	url = git@github.com:osu-uwrt/mercury_launch.git
+[submodule "src/mercury_mapping"]
+	path = src/mercury_mapping
+	url = git@github.com:osu-uwrt/mercury_mapping.git
+[submodule "src/mercury_vision"]
+	path = src/mercury_vision
+	url = git@github.com:osu-uwrt/mercury_vision.git
