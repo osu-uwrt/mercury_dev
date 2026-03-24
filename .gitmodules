@@ -25,3 +25,6 @@
 [submodule "src/mercury_vision"]
 	path = src/mercury_vision
 	url = git@github.com:osu-uwrt/mercury_vision.git
+[submodule "src/mercury_simulator"]
+	path = src/mercury_simulator
+	url = git@github.com:osu-uwrt/mercury_simulator.git
