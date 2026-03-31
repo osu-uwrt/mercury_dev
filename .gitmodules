@@ -28,3 +28,6 @@
 [submodule "src/mercury_simulator"]
 	path = src/mercury_simulator
 	url = git@github.com:osu-uwrt/mercury_simulator.git
+[submodule "uwrt_docs"]
+	path = uwrt_docs
+	url = https://github.com/osu-uwrt/uwrt_docs.git
