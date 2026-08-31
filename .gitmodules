@@ -28,3 +28,12 @@
 [submodule "src/mercury_simulator"]
 	path = src/mercury_simulator
 	url = git@github.com:osu-uwrt/mercury_simulator.git
+[submodule "src/mercury_dependencies/apriltag_msgs"]
+	path = src/mercury_dependencies/apriltag_msgs
+	url = git@github.com:christianrauch/apriltag_msgs.git
+[submodule "src/mercury_dependencies/apriltag_ros"]
+	path = src/mercury_dependencies/apriltag_ros
+	url = git@github.com:osu-uwrt/apriltag_ros
+[submodule "src/mercury_dependencies/chameleon_tf"]
+	path = src/mercury_dependencies/chameleon_tf
+	url = git@github.com:osu-uwrt/chameleon_tf.git
